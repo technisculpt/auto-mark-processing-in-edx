@@ -61,8 +61,6 @@ def check_function(e, ans):
 
 [Custom grading applications in edX 2](http://edx.readthedocs.io/projects/edx-partner-course-staff/en/latest/exercises_tools/custom_javascript.html)
 
-[Custom grading applications in edX 2](http://edx.readthedocs.io/projects/edx-partner-course-staff/en/latest/exercises_tools/custom_javascript.html)
-
 [Based of editor and processing-helper.js found here](http://processingjs.org/tools/processing-helper.html)
 
 ## preview:
